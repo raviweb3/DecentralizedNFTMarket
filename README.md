@@ -10,4 +10,6 @@ Requirements:
 Whitelist access should be given to the first 10 users for free who want to get in.
 There should be a website where people can go and enter into the whitelist.
 
-
+Push Changes to Git Repo
+git commit -m "Blockchain is deploy and webapp is setup"
+git push -u origin main
